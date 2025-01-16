@@ -44,23 +44,16 @@ This tutorial outlines the post-installation configuration of the open-source he
  
  ![image](https://github.com/user-attachments/assets/717a484f-161d-4a11-8c7f-fd1752d2b202)
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>
+ STEP 2: Access the help desk login page using this link within the Virtual Machine (http://localhost/osTicket/scp/login.php).
+</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Be sure to login using the administrator credentials that were assigned during the osTicket basic installation process towards the end of the previous lab.
+
+![image](https://github.com/user-attachments/assets/4be6480e-345e-4bd0-aa4e-602f708f2595)
+
+![image](https://github.com/user-attachments/assets/23bdc905-2b23-4da0-a7bf-2df6cc415261)
+
+
+ 
