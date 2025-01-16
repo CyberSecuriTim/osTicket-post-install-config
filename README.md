@@ -35,7 +35,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Configuration Steps</h2>
 
-<h2> STEP 1: Access your created Windows 10 virtual machine (which has osTicket currently installed on it) hosted in Azure by establishing a remote desktop connection via its public IP address using your preferred Remote Desktop client.
+<h2> 
+ STEP 1: Access your created Windows 10 virtual machine (which has osTicket currently installed on it) hosted in Azure by establishing a remote desktop connection via its public IP address using your preferred Remote Desktop client.
 </h2>
 
 <p>
@@ -59,5 +60,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 ![image](https://github.com/user-attachments/assets/67d2c382-fed3-415e-bd1b-3a97d2f9b241)
 
-
+<h2>
+STEP 3: Configure Roles for your help desk agents.🍞
+</h2>
  
