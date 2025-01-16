@@ -72,7 +72,7 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
 
 ![image](https://github.com/user-attachments/assets/c04a37ce-5027-4a99-aaa8-1e9f3c4e1943)
 
-- Navigate to the Permissions tab and ss the name suggests, assign all permissions to this new role.
+- Navigate to the "Permissions" tab and as the name suggests, assign all permissions to this new role.
 ![image](https://github.com/user-attachments/assets/a4964fff-6538-4670-9d45-20935ed80c75)
 ![image](https://github.com/user-attachments/assets/05fb9944-84ce-41ed-a38a-4dfc24f4e22a)
 ![image](https://github.com/user-attachments/assets/92791b8e-ed65-469a-bc13-6d89dd908688)
