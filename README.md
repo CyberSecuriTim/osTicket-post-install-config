@@ -68,7 +68,7 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
 
   - (From the admin panel) Select the "Agents" tab then select the "Roles" Tab.
   - Select "Add New Role"
-    - Name this new role whatever would like (I chose Supreme Admin 👑)
+    - You can name this new role whatever would like (I chose Supreme Admin 👑)
 
 ![image](https://github.com/user-attachments/assets/c04a37ce-5027-4a99-aaa8-1e9f3c4e1943)
 
