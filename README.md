@@ -9,7 +9,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <p>
  
   - NOTE: As the name suggests, this project requires a successful installation of osTicket to have already been completed.
-    - For a step-by-step procedure to install this software (and all its dependencies) feel free to take a look at my other github repository [here](https://github.com/Cybersecuritim/osticket-installation)
+    - For a step-by-step procedure to install this software (and all its dependencies) feel free to take a look at my other github repository [here](https://github.com/Cybersecuritim/osticket-installation).
 </p>
 
 <h2>Environments and Technologies Used</h2>
