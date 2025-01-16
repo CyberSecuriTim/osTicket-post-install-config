@@ -77,6 +77,8 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
 ![image](https://github.com/user-attachments/assets/05fb9944-84ce-41ed-a38a-4dfc24f4e22a)
 ![image](https://github.com/user-attachments/assets/92791b8e-ed65-469a-bc13-6d89dd908688)
 
+- Finally, click "Add role".
+
 
 
 
