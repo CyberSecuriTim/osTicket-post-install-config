@@ -61,6 +61,12 @@ This tutorial outlines the post-installation configuration of the open-source he
 ![image](https://github.com/user-attachments/assets/67d2c382-fed3-415e-bd1b-3a97d2f9b241)
 
 <h2>
-STEP 3: Configure Roles for your help desk agents.🍞
+STEP 3: It seems your help desk agents are hungry. Time to configure some roles for them.🍞
 </h2>
- 
+
+ <p>
+
+  - (From the admin panel) Select the "Agents" tab then select the "Roles" Tab.
+  - Select "Add New Role"
+    - Name this new role whatever would like (I chose Supreme Admin 😊)
+ </p>
