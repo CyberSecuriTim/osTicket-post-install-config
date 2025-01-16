@@ -39,7 +39,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 </h2>
 
 <p>
-  - I used the Windows Remote Desktop Connection app during this lab.
+  
+ - I used the Windows Remote Desktop Connection app during this lab.
  
  ![image](https://github.com/user-attachments/assets/717a484f-161d-4a11-8c7f-fd1752d2b202)
 </p>
