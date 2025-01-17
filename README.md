@@ -210,6 +210,6 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 <h2>
 
- STEP 8: What good is a ticketing system if we have no users to well, use it? It is time to configure some users so we can get to resetting some passwords 💻
+ STEP 8: What good is a ticketing system if we have no users to well, use it? It is time to configure some users so we can get to resetting those passwords 💻
 </h2>
 
