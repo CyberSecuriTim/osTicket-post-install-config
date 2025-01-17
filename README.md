@@ -84,7 +84,16 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
 STEP 4: Now configure some Departments that your agents will be placed into. 
 </h2>
 
+<p>
 
+ - (From the admin panel) Select the "Agents" tab, then the "Departments" tab.
+ - Select "Add New Department"
+ - Name this new Department "System Administrators"
+   - Select "Create Dept"  
+
+![image](https://github.com/user-attachments/assets/651aa352-4f5a-4232-96a4-e252d61ac148)
+
+</p>
 
 
 
