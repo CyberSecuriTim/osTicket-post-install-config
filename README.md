@@ -155,7 +155,11 @@ STEP 4: Now configure some Departments that your agents will be placed into.
     - Check the "Fall back to primary role on assignments" field for this agent.
       - This will enable the agent to assume their "Supreme Admin" role even if assigned a ticket or task that is outside their primary department or
          extended access department, instead of being granted "read only" access. 
-    
-   
+
+   - Optionally, you may also grant this agent "Extended Access" and place them in a secondary department (I chose Support) and grant them the Expanded 
+     Access role for tickets assigned to that department. 
+
+   ![image](https://github.com/user-attachments/assets/8c0d5d20-f404-4dbb-b2e7-f9edda5eb51b)
+
 </p>
 
