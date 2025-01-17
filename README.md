@@ -166,6 +166,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
      - I chose to add this agent to the "Level I Support" team
     
  ![image](https://github.com/user-attachments/assets/339aa9e7-1bdc-4195-b1cd-248a3dccaf1a)
- 
+
+   - Now finally, click "Create" and you will have successfully provisioned your first help desk agent.
 </p>
 
