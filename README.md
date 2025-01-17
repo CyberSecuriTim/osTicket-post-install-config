@@ -122,5 +122,16 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 ![image](https://github.com/user-attachments/assets/e92ed9ad-a614-4298-94c0-6a4a5fbb5a38)
 
+- Save the changes.
+</p>
+
+<h2>
+
+ STEP 7: Your Help Desk is currently a Ghost Town. It is time to finally configure some Help Desk Agents to work these tickets!
+</h2>
+
+<p>
+
+ 
 </p>
 
