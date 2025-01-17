@@ -109,3 +109,18 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 ![image](https://github.com/user-attachments/assets/a61f0d45-5c80-4373-9904-5856aa213e10)
 
 </p>
+
+<h2>
+
+ STEP 6: Allow anyone to create tickets as an end user of the ticketing system.
+</h2>
+
+<p>
+
+ - (From the admin panel) Go to the "Settings" tab, then select the "Users" tab
+ - Ensure the "Registration Required: Require registration and login to create tickets" field (under Authentication Settings) is unchecked.
+
+![image](https://github.com/user-attachments/assets/e92ed9ad-a614-4298-94c0-6a4a5fbb5a38)
+
+</p>
+
