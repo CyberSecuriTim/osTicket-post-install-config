@@ -132,6 +132,15 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 <p>
 
- 
+ - (From the admin panel) Select the "Agents" tab, then select the "Agents" tab below it.
+ - Select "Add New Agent"
+ - Within the "Account" tab
+   - You can name your agent whatever you like
+   - Assign an email address of your choosing
+   - Assign a usernamer of your choosing
+   - Set the password for this agent by selecting the "Set Password" button beside the username.
+
+![image](https://github.com/user-attachments/assets/ed07bf61-ac5b-45d2-ad63-a626134431e4)
+
 </p>
 
