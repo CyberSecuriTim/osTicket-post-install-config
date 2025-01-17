@@ -81,9 +81,9 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
   - Feel free to continue adding roles if you so desire.
 
 <h2>
-
- STEP 4: Now configure some Departments that your agents will be placed into. 
+STEP 4: Now configure some Departments that your agents will be placed into. 
 </h2>
+
 
 
 
