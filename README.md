@@ -56,7 +56,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 ![image](https://github.com/user-attachments/assets/23bdc905-2b23-4da0-a7bf-2df6cc415261)
 
-- NOTE: Upon login, if you are not automatically brought to the admin panel (and instead in the agent panel), simply click "Admin Panel" link in the top right corner to be redirected to the admin panel in order to complete the outlined configuration objectives. 
+- NOTE: Upon login, if you are not automatically brought to the admin panel (and instead to the agent panel), simply click "Admin Panel" link in the top right corner to be redirected to the admin panel in order to complete the outlined configuration objectives. 
 
 ![image](https://github.com/user-attachments/assets/67d2c382-fed3-415e-bd1b-3a97d2f9b241)
 
