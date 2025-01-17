@@ -185,6 +185,13 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 ![image](https://github.com/user-attachments/assets/8c8115bf-0064-4459-929f-a3d32e6d84a7)
 
-   
+   - Now navigate to the admin panel to begin creating a new help desk agent.
+     - Repeat the steps outlined above to create a new Agent.
+     - "Agents" tab ---> "Agents" tab ---> "Add New Agent" --->
+     - Name your new agent whatever you would like
+     - Assign an email address with a recognized domain name
+     - Assign a username and manually set a password.
+     - NOTE: Leave the "Admininistrator" field unchecked this time
+       - We do not want to get too trigger happy with provisioning Admin permissions...the principle of least privilege is a cornerstone of cybersecurity best practices for good reason.   
 </p>
 
