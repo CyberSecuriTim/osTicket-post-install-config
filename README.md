@@ -100,5 +100,12 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 </h2>
 
 <p>
- 
+
+ - (From the admin panel) Select the "Agents" tab, then the "Teams" tab.
+ - Select "Add New Team"
+   - Name this new team "Level II Support"
+ - Select "Create Team" 
+
+![image](https://github.com/user-attachments/assets/a61f0d45-5c80-4373-9904-5856aa213e10)
+
 </p>
