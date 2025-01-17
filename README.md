@@ -137,6 +137,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
  - Within the "Account" tab
    - You can name your agent whatever you like
    - Assign an email address of your choosing
+     - NOTE: the email username may be whatever you like but the email's domain must be a recognized email domain (eg. gmail.com or outlook.com) 
    - Assign a usernamer of your choosing
    - Set the password for this agent by selecting the "Set Password" button beside the username.
 
