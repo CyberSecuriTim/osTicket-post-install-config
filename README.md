@@ -208,3 +208,8 @@ STEP 4: Now configure some Departments that your agents will be placed into.
   - Finally, click "Create" to successfully create another help desk agent using your created help desk agent...I call that agentception 😏
 </p>
 
+<h2>
+
+ STEP 8: What good is a ticketing system if we have no users to well, use it? It is time to configure some users so we can get to resetting some passwords 💻
+</h2>
+
