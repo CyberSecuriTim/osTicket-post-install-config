@@ -139,9 +139,13 @@ STEP 4: Now configure some Departments that your agents will be placed into.
    - Assign an email address of your choosing
      - NOTE: the email username may be whatever you like but the email's domain must be a recognized email domain (eg. gmail.com or outlook.com) 
    - Assign a usernamer of your choosing
+   - Check the "Administrator" field underneath "Status and Settings" as well
+     - This will give this agent access to the Admin panel.  
    - Set the password for this agent by selecting the "Set Password" button beside the username.
 
-![image](https://github.com/user-attachments/assets/ed07bf61-ac5b-45d2-ad63-a626134431e4)
+
+![image](https://github.com/user-attachments/assets/a01d610f-d8f2-472d-ab44-cfeaa78b6d6f)
+
 
  - Uncheck "Send the agent a password reset email"
    - Now manually assign the agent a password
