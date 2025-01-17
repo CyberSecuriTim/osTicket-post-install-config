@@ -174,4 +174,17 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
    - Now finally, click "Create" and you will have successfully provisioned your first help desk agent.
 </p>
+<b>
+ 
+</b>
+
+<p>
+
+ - We will create another help desk agent and to verify that the first agent was provisioned accurately, let us kill two birds with one stone...figuratively of course. 🐦
+   - Log out of your current admin agent's account and login as the new administrator agent that you just created.
+
+![image](https://github.com/user-attachments/assets/8c8115bf-0064-4459-929f-a3d32e6d84a7)
+
+   
+</p>
 
