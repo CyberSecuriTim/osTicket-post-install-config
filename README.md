@@ -161,5 +161,11 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
    ![image](https://github.com/user-attachments/assets/8c0d5d20-f404-4dbb-b2e7-f9edda5eb51b)
 
+   - The default permissions assigned to this agent (can be viewed in the "Permissions tab") will suffice for the purposes of this lab.
+   - Lastly, you can also add this agent to a specific team if you so desire via the "Teams" tab.
+     - I chose to add this agent to the "Level I Support" team
+    
+ ![image](https://github.com/user-attachments/assets/339aa9e7-1bdc-4195-b1cd-248a3dccaf1a)
+ 
 </p>
 
