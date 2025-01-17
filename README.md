@@ -142,5 +142,12 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 ![image](https://github.com/user-attachments/assets/ed07bf61-ac5b-45d2-ad63-a626134431e4)
 
+ - Uncheck "Send the agent a password reset email"
+   - Now manually assign the agent a password
+   - Uncheck "Require password change at next login"
+   - Click "Set"
+
+![image](https://github.com/user-attachments/assets/3819b416-27b4-4568-83ad-c0e1038380f6)
+
 </p>
 
