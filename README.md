@@ -127,7 +127,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 <h2>
 
- STEP 7: Your Help Desk is currently a Ghost Town. It is time to finally configure some Help Desk Agents to work these tickets!
+ STEP 7: Your Help Desk is currently a Ghost Town. It is time to finally provision some Help Desk Agents to work these tickets!
 </h2>
 
 <p>
