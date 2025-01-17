@@ -225,7 +225,10 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 ![image](https://github.com/user-attachments/assets/7dce28ba-cf4c-466f-866a-3fbf641a347d)
 
    - Click "Add User"
-   - Repeat these steps and create another user (you may create as many users as you would like) 
+   - Repeat these steps to create as many end users as you would like for your ticketing system (I will create one more).
+
+![image](https://github.com/user-attachments/assets/d966aeb6-c077-46c4-b660-d117b4ea51e4)
+
 
  </p>
 </p>
