@@ -30,8 +30,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Enable anyone to create tickets 
 - Configure "Agents" (i.e. help desk employees)
 - Configure "Users" (i.e. customers)
+- Configure "Help Topics"
 - Configure "SLA" (service level agreements)
-- Configure "Help Topics" 
 
 <h2>Configuration Steps</h2>
 
@@ -231,5 +231,14 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 
  </p>
+</p>
+
+<h2>
+STEP 9: Now that we have our Help Desk Users, it would be great if we configured some "Help Topics" so they can indicate what it is that they need help with...we are working a help desk ticketing system here after all.
+</h2>
+
+<p>
+
+ - 
 </p>
 
