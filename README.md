@@ -213,3 +213,17 @@ STEP 4: Now configure some Departments that your agents will be placed into.
  STEP 8: What good is a ticketing system if we have no users to well, use it? It is time to configure some users so we can get to resetting those passwords 💻
 </h2>
 
+<p>
+
+ <p> 
+
+  - Navigate to the Agent Panel.
+  - (From the Agent Panel), select the "Users" tab
+    - Under "User Directory" select "Add User"
+    - Assign an email address to this user and name them (Be as imaginative as you would like)
+   
+   ![image](https://github.com/user-attachments/assets/d4618d67-8b23-4304-82de-9914b335a600)
+
+ </p>
+</p>
+
