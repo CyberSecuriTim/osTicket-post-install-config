@@ -201,9 +201,10 @@ STEP 4: Now configure some Departments that your agents will be placed into.
      - This will ensure that this agent is granted read only privileges on any tickets or tasks that are not assigned to his/her primary or extended accesss department(s).
        - Do not add this agent to any extended access departments.
    - Leave the default permissions assigned to this agent as is.
-   - Lastly, assign this agent to the "Level II Support" team. 
+   - Assign this agent to the "Level II Support" team. 
 
 ![image](https://github.com/user-attachments/assets/0f309702-8ddc-406a-ac4e-8492c0e02ccb)
 
+  - Finally, click "Create" to successfully create another help desk agent using your created help desk agent...I call that agentception 😏
 </p>
 
