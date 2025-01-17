@@ -95,10 +95,6 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 </p>
 
-
-
-
-
-
-    
- </p>
+<h2>
+ STEP 5: Why should you be restricted to the strict confines of departments? Now configure "Teams" that allow you to group your help desk agents regardless of their departments...Avengers Assemble!⚡
+</h2>
