@@ -192,6 +192,9 @@ STEP 4: Now configure some Departments that your agents will be placed into.
      - Assign an email address with a recognized domain name
      - Assign a username and manually set a password.
      - NOTE: Leave the "Admininistrator" field unchecked this time
-       - We do not want to get too trigger happy with provisioning Admin permissions...the principle of least privilege is a cornerstone of cybersecurity best practices for good reason.   
+       - We do not want to get too trigger happy with provisioning Admin permissions...the principle of least privilege is a cornerstone of cybersecurity best practices for good reason.
+      
+![image](https://github.com/user-attachments/assets/fd81ec14-6f26-4237-b1d1-bc2fff9fa936)
+
 </p>
 
