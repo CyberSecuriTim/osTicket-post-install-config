@@ -180,14 +180,14 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 <p>
 
- - We will create another help desk agent and to verify that the first agent was provisioned accurately, let us kill two birds with one stone...figuratively of course. 🐦
+ - We will create another help desk agent and also verify that the first agent was provisioned accurately, so let us kill two birds with one stone...figuratively of course. 🐦
    - Log out of your current admin agent's account and login as the new administrator agent that you just created.
 
 ![image](https://github.com/user-attachments/assets/8c8115bf-0064-4459-929f-a3d32e6d84a7)
 
    - Now navigate to the admin panel to begin creating a new help desk agent.
      - Repeat the steps outlined above to create a new Agent.
-     - "Agents" tab ---> "Agents" tab ---> "Add New Agent" --->
+     - "Agents" tab ---> "Agents" tab ---> "Add New Agent" 
      - Name your new agent whatever you would like
      - Assign an email address with a recognized domain name
      - Assign a username and manually set a password.
@@ -195,6 +195,15 @@ STEP 4: Now configure some Departments that your agents will be placed into.
        - We do not want to get too trigger happy with provisioning Admin permissions...the principle of least privilege is a cornerstone of cybersecurity best practices for good reason.
       
 ![image](https://github.com/user-attachments/assets/fd81ec14-6f26-4237-b1d1-bc2fff9fa936)
+
+   - Under the "Access" tab, assign this agent's primary department to be "Support" and grant them the "Expanded Access" role.
+   - Uncheck "Fall back to primary role on assignments"
+     - This will ensure that this agent is granted read only privileges on any tickets or tasks that are not assigned to his/her primary or extended accesss department(s).
+       - Do not add this agent to any extended access departments.
+   - Leave the default permissions assigned to this agent as is.
+   - Lastly, assign this agent to the "Level II Support" team. 
+
+![image](https://github.com/user-attachments/assets/0f309702-8ddc-406a-ac4e-8492c0e02ccb)
 
 </p>
 
