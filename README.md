@@ -78,7 +78,12 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
 ![image](https://github.com/user-attachments/assets/92791b8e-ed65-469a-bc13-6d89dd908688)
 
 - Finally, click "Add role".
-  - Feel free to continue adding roles if you so desire. 
+  - Feel free to continue adding roles if you so desire.
+
+<h2>
+
+ STEP 4: Now configure some Departments that your agents will be placed into. 
+</h2>
 
 
 
