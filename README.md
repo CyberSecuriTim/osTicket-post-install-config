@@ -110,8 +110,6 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
 ![image](https://github.com/user-attachments/assets/e4be4415-0b74-4f82-ae07-66fc9532c9c6)
 
-
- -
 </p>
 
 <h2>
