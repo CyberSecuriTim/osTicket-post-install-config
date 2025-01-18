@@ -272,10 +272,24 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
  - Navigate to the admin panel.
  - (From the Admin Panel), Select the "Manage" tab, then select "Help Topics"
  - Click the "Add New Help Topic" button.
-   - Under the "Help Topic Information" tab
+   - Under the "Help Topic Information" tab:
      - Topic: Business Critical Outage
      - Status: Active
      - Type: Public
-     - Parent Topic: Top-Level Topic 
+     - Parent Topic: Top-Level Topic
+    
+   - Under the "New ticket options" tab:
+     - Department: System Adminstrators
+     - Ticket Number format: System Default
+     - Status: System Default
+     - Priority: Emergency
+     - SLA Plan: Sev-A
+    
+   - Under the "Forms tab:
+     - Leave the default configurations.
+    
+
+
+
 </p>
 
