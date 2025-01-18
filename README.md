@@ -321,10 +321,13 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
        - Priority: "Normal"
        - SLA Plan: Sev-B
        ![image](https://github.com/user-attachments/assets/6552617e-feea-4d72-95f4-15fce07700dc)
-
-    
-
-
+   
 
 </p>
+
+<h2> 
+
+Congratulations! You have successfully completed the post installation configuration of osTicket. Feel free to navigate throughout the portal and make more config changes to your heart's content. If you would like a brief simulated exercise in creating and triaging tickets and the overall ticket lifecycle in osTicket please check out my other github repository linked
+[here](https://github.com/Cybersecuritim/osticket-ticket-lifecycle).
+</h2>
 
