@@ -250,9 +250,21 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
   ![image](https://github.com/user-attachments/assets/52e140ce-657e-44cf-89d9-7830cb00fe3f)
 
+  - Repeat these steps two more times.
+    - Create an SLA named "Sev-B" with a 4 hour grace period and on a 24/7 schedule.
+
+![image](https://github.com/user-attachments/assets/7d45ec5f-d53d-4057-ac1e-4de6b0394a6d)
+
+    
+   - Create another SLA named "Sev-C" with an 8 hour grace period and a grace period of Monday - Friday, 8am - 5pm while also abiding by U.S. Holidays.
+
+
+  ![image](https://github.com/user-attachments/assets/b4fbe357-61bd-4de6-84c4-69852c047642)
+
+
 </p>
 <h2>
-STEP 10: Now that we have our Users, the last thing we need to configure are some "Help Topics" so that they can communicate what it is that they need help with from our Help Desk Agents.
+STEP 10: Now that we have our Users and some SLAs to provide the expected service levels for these users, the last thing we need to configure are some "Help Topics" so that they can communicate what it is that they need help with from our Help Desk Agents.
 </h2>
 
 <p>
