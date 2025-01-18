@@ -103,11 +103,14 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 
  - (From the admin panel) Select the "Agents" tab, then the "Teams" tab.
  - Select "Add New Team"
-   - Name this new team "Level II Support"
+   - Name this new team "Online Banking"
+   - Add the admin agent that you are currently using to this team.
+     - You are free to add more agents to this team after we create them later in the lab.  
  - Select "Create Team" 
 
 ![image](https://github.com/user-attachments/assets/a61f0d45-5c80-4373-9904-5856aa213e10)
 
+ -
 </p>
 
 <h2>
@@ -137,7 +140,8 @@ STEP 4: Now configure some Departments that your agents will be placed into.
  - Within the "Account" tab
    - You can name your agent whatever you like
    - Assign an email address of your choosing
-     - NOTE: the email username may be whatever you like but the email's domain must be a recognized email domain (eg. gmail.com or outlook.com) 
+     - NOTE: the email username may be whatever you like but the email's domain must be a recognized email domain (eg. gmail.com 
+       or outlook.com) 
    - Assign a usernamer of your choosing
    - Check the "Administrator" field underneath "Status and Settings" as well
      - This will give this agent access to the Admin panel.  
