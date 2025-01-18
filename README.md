@@ -277,7 +277,10 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
      - Status: Active
      - Type: Public
      - Parent Topic: Top-Level Topic
-    
+
+  ![image](https://github.com/user-attachments/assets/7cb72aca-39cc-4ea0-a238-88d4c938bf04)
+
+
    - Under the "New ticket options" tab:
      - Department: System Adminstrators
      - Ticket Number format: System Default
@@ -285,8 +288,16 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
      - Priority: Emergency
      - SLA Plan: Sev-A
     
+   
+   ![image](https://github.com/user-attachments/assets/5026c5be-e50f-422a-a249-e83119e55bf7)
+
    - Under the "Forms tab:
-     - Leave the default configurations.
+     - Do not change the default configurations.
+
+   ![image](https://github.com/user-attachments/assets/825e5276-64c2-4d9e-bdaa-bc033f580ec4)
+
+   - Click "Add Topic" 
+
     
 
 
