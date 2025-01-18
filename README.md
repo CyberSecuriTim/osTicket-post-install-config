@@ -234,7 +234,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
 </p>
 
 <h2>
-STEP 9: Now that we have our Help Desk Users, it would be great if we configured some "Help Topics" so they can indicate what it is that they need help with...we are working a help desk ticketing system here after all.
+STEP 9: Now that we have our Users, it would be great if we configured some "Help Topics" so they can communicate what it is that they need help with from our Help Desk Agents.
 </h2>
 
 <p>
