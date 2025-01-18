@@ -233,13 +233,32 @@ STEP 4: Now configure some Departments that your agents will be placed into.
  </p>
 </p>
 
+<h2> 
+ STEP 9: Time to configure a few SLAs (Service Level Agreements) to give our Help Desk Agents some objective metrics to guide their response efforts. 📝
+</h2>
+
+<p>
+
+ - Navigate to the Admin panel.
+ - (From the admin panel), Select the "Manage" tab then select "SLA"
+ - "Add New SLA Plan"
+   - Name this SLA "Sev-A" (just to indicate highest severity)
+   - Set the Status as "Active"
+   - Assign a grace period of 1 hour
+   - Configure the SLA's schedule to be 24/7
+   - "Add Plan"
+
+  ![image](https://github.com/user-attachments/assets/52e140ce-657e-44cf-89d9-7830cb00fe3f)
+
+</p>
 <h2>
-STEP 9: Now that we have our Users, it would be great if we configured some "Help Topics" so they can communicate what it is that they need help with from our Help Desk Agents.
+STEP 10: Now that we have our Users, the last thing we need to configure are some "Help Topics" so that they can communicate what it is that they need help with from our Help Desk Agents.
 </h2>
 
 <p>
 
  - Navigate to the admin panel.
- - 
+ - (From the Admin Panel), Select the "Manage" tab, then select "Help Topics"
+   - Click the "Add New Help Topic" button.  
 </p>
 
