@@ -315,7 +315,13 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
        ![image](https://github.com/user-attachments/assets/83c00ddf-3abb-4a67-9c80-1147561a0628)
 
 
-     - 
+     - Password Reset...how could I ever forget this one? 
+       - Parent Topic: "Top-Level Topic"
+       - Department: "Support"
+       - Priority: "Normal"
+       - SLA Plan: Sev-B
+       ![image](https://github.com/user-attachments/assets/6552617e-feea-4d72-95f4-15fce07700dc)
+
     
 
 
