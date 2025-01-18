@@ -298,6 +298,24 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
 
    - Click "Add Topic" 
 
+   - Repeat these steps to create as many help topics as you would like to. I will create three more namely:
+     - Personal Computer Issues
+       - Parent Topic: "Report a Problem"
+       - Department: "Support"
+       - Priority: "Normal"
+       - SLA Plan: Sev-B
+     ![image](https://github.com/user-attachments/assets/6fb35c32-f11f-40c8-afc6-622bee468069)
+
+      
+     - Equipment Request 
+         - Parent Topic: "General Inquiry"
+         - Department: "Maintenance"
+         - Priority: "Low"
+         - SLA Plane: Sev-C
+       ![image](https://github.com/user-attachments/assets/83c00ddf-3abb-4a67-9c80-1147561a0628)
+
+
+     - 
     
 
 
