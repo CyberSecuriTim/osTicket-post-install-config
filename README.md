@@ -239,6 +239,7 @@ STEP 9: Now that we have our Help Desk Users, it would be great if we configured
 
 <p>
 
+ - Navigate to the admin panel.
  - 
 </p>
 
