@@ -108,7 +108,8 @@ STEP 4: Now configure some Departments that your agents will be placed into.
      - You are free to add more agents to this team after we create them later in the lab.  
  - Select "Create Team" 
 
-![image](https://github.com/user-attachments/assets/a61f0d45-5c80-4373-9904-5856aa213e10)
+![image](https://github.com/user-attachments/assets/e4be4415-0b74-4f82-ae07-66fc9532c9c6)
+
 
  -
 </p>
