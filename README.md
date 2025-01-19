@@ -37,6 +37,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2> 
  STEP 1: Access your created Windows 10 virtual machine (which has osTicket currently installed on it) hosted in Azure by establishing a remote desktop connection via its public IP address using your preferred Remote Desktop client.
+    - Don't forget to start/turn on your VM if you turned it off after the previous lab.
 </h2>
 
 <p>
