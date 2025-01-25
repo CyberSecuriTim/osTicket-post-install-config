@@ -9,7 +9,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <p>
  
   - NOTE: As the name suggests, this project requires a successful installation of osTicket to have already been completed.
-    - For a step-by-step procedure detailing how to install this software (and all its dependencies) feel free to take a look at my other github repository [here](https://github.com/Cybersecuritim/osticket-installation).
+    - For a step-by-step procedure detailing how to install this software (and all its dependencies) feel free to take a look at my other GitHub repository [here](https://github.com/Cybersecuritim/osticket-installation).
 </p>
 
 <h2>Environments and Technologies Used</h2>
@@ -20,7 +20,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -37,13 +37,12 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2> 
  STEP 1: Access your created Windows 10 virtual machine (which has osTicket currently installed on it) hosted in Azure by establishing a remote desktop connection via its public IP address using your preferred Remote Desktop client.
-    
-   - Don't forget to start/turn on your VM if you turned it off after the previous lab.
+ 
 </h2>
 
 <p>
-  
- - I used the Windows Remote Desktop Connection app during this lab.
+
+  - Ensure to start/turn on your VM if it was turned off after the previous lab.
  
  ![image](https://github.com/user-attachments/assets/717a484f-161d-4a11-8c7f-fd1752d2b202)
 </p>
@@ -52,7 +51,7 @@ This tutorial outlines the post-installation configuration of the open-source he
  STEP 2: Access the help desk login page using this link within the Virtual Machine (http://localhost/osTicket/scp/login.php).
 </h2>
 
-- Be sure to login using the administrator credentials that were assigned during the osTicket basic installation process towards the end of the previous lab.
+- Be sure to log in using the administrator credentials that were assigned during the osTicket basic installation process towards the end of the previous lab.
 
 ![image](https://github.com/user-attachments/assets/4be6480e-345e-4bd0-aa4e-602f708f2595)
 
