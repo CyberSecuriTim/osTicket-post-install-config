@@ -69,7 +69,7 @@ STEP 3: It seems your help desk agents are hungry. Time to configure some roles 
 
   - (From the admin panel) Select the "Agents" tab then select the "Roles" Tab.
   - Select "Add New Role"
-    - You can name this new role whatever would like (I chose Supreme Admin 👑)
+    - You can name this new role whatever you would like (I chose Supreme Admin 👑)
 
 ![image](https://github.com/user-attachments/assets/c04a37ce-5027-4a99-aaa8-1e9f3c4e1943)
 
@@ -142,9 +142,9 @@ STEP 4: Now configure some Departments that your agents will be placed into.
    - Assign an email address of your choosing
      - NOTE: the email username may be whatever you like but the email's domain must be a recognized email domain (eg. gmail.com 
        or outlook.com) 
-   - Assign a usernamer of your choosing
+   - Assign a username of your choosing
    - Check the "Administrator" field underneath "Status and Settings" as well
-     - This will give this agent access to the Admin panel.  
+     - This grants the agent access to the Admin panel.  
    - Set the password for this agent by selecting the "Set Password" button beside the username.
 
 
@@ -162,8 +162,8 @@ STEP 4: Now configure some Departments that your agents will be placed into.
   - Assign this agent to the "System Administrators" department as its primary department.
     - And simultaneously assign the "Supreme Admin" (or whatever you named it) role to this agent.
     - Check the "Fall back to primary role on assignments" field for this agent.
-      - This will enable the agent to assume their "Supreme Admin" role even if assigned a ticket or task that is outside their primary department or
-         extended access department, instead of being granted "read only" access. 
+      - This will enable the agent to assume their "Supreme Admin" role even if assigned a ticket or task that is outside their primary 
+        department or extended access department, instead of being granted "read-only" access. 
 
    - Optionally, you may also grant this agent "Extended Access" and place them in a secondary department (I chose Support) and grant them the Expanded 
      Access role for tickets assigned to that department. 
@@ -195,8 +195,9 @@ STEP 4: Now configure some Departments that your agents will be placed into.
      - Name your new agent whatever you would like
      - Assign an email address with a recognized domain name
      - Assign a username and manually set a password.
-     - NOTE: Leave the "Admininistrator" field unchecked this time
-       - We do not want to get too trigger happy with provisioning Admin permissions...the principle of least privilege is a cornerstone of cybersecurity best practices for good reason.
+     - NOTE: Leave the "Administrator" field unchecked this time
+       - We do not want to get too trigger-happy with provisioning Admin permissions...the principle of least privilege is a cornerstone of 
+          cybersecurity best practices for good reason.
       
 ![image](https://github.com/user-attachments/assets/fd81ec14-6f26-4237-b1d1-bc2fff9fa936)
 
@@ -224,7 +225,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
   - Navigate to the Agent Panel.
   - (From the Agent Panel), select the "Users" tab
     - Under "User Directory" select "Add User"
-    - Assign an email address to this user and name them (be as imaginative as you would like)
+    - Assign an email address and name to the user (be as imaginative as you would like to)
 
 ![image](https://github.com/user-attachments/assets/7dce28ba-cf4c-466f-866a-3fbf641a347d)
 
@@ -246,7 +247,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
  - Navigate to the Admin panel.
  - (From the admin panel), Select the "Manage" tab then select "SLA"
  - "Add New SLA Plan"
-   - Name this SLA "Sev-A" (just to indicate highest severity)
+   - Name this SLA "Sev-A" (just to indicate the highest severity)
    - Set the Status as "Active"
    - Assign a grace period of 1 hour
    - Configure the SLA's schedule to be 24/7
@@ -255,7 +256,7 @@ STEP 4: Now configure some Departments that your agents will be placed into.
   ![image](https://github.com/user-attachments/assets/52e140ce-657e-44cf-89d9-7830cb00fe3f)
 
   - Repeat these steps two more times.
-    - Create an SLA named "Sev-B" with a 4 hour grace period and on a 24/7 schedule.
+    - Create an SLA named "Sev-B" with a 4-hour grace period and on a 24/7 schedule.
 
 ![image](https://github.com/user-attachments/assets/7d45ec5f-d53d-4057-ac1e-4de6b0394a6d)
 
@@ -286,7 +287,7 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
 
 
    - Under the "New ticket options" tab:
-     - Department: System Adminstrators
+     - Department: System Administrators
      - Ticket Number format: System Default
      - Status: System Default
      - Priority: Emergency
@@ -315,11 +316,11 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
          - Parent Topic: "General Inquiry"
          - Department: "Maintenance"
          - Priority: "Low"
-         - SLA Plane: Sev-C
+         - SLA Plan: Sev-C
        ![image](https://github.com/user-attachments/assets/83c00ddf-3abb-4a67-9c80-1147561a0628)
 
 
-     - Password Reset...how could I ever forget this one? 
+     - Password Reset...How could I ever forget this one? 
        - Parent Topic: "Top-Level Topic"
        - Department: "Support"
        - Priority: "Normal"
@@ -331,15 +332,15 @@ STEP 10: Now that we have our Users and some SLAs to provide the expected servic
 
 <h2> 
 
-Congratulations! You have successfully completed the post installation configuration of osTicket. Feel free to navigate throughout the portal and make additional config changes to your heart's content. If you would like a brief simulated exercise in creating and triaging tickets and the overall ticket lifecycle in osTicket please check out my other github repository linked
+Congratulations! You have successfully completed the post-installation configuration of osTicket. Feel free to navigate throughout the portal and make additional config changes to your heart's content. If you would like a brief simulated exercise in creating and triaging tickets, as well as the overall ticket lifecycle in osTicket, please check out my other GitHub repository linked
 [here](https://github.com/Cybersecuritim/osticket-ticket-lifecycle).
 </h2>
 
   <h3>
 
-  - PS: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure you can stop/deallocate 
-    your VM within the Azure portal.
-     - Within the [Azure portal](https://azure.portal.com) home page select or search for "Virtual Machines"
+  - PS: If you ever wanted to take a temporary break and reduce the costs of having your computing resources hosted in Azure you can 
+    stop/deallocate your VM within the Azure portal.
+     - From the [Azure portal](https://portal.azure.com) home page select or search for "Virtual Machines"
      - Then select the VM that you created for the osTicket lab and select "Stop" then confirm your selection.
     
    ![image](https://github.com/user-attachments/assets/f69f2e4f-4954-4976-a285-71bef8b78b86)
